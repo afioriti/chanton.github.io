@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Supervision
 ---
 I am accepting doctoral, masters, and honors students for the academic year 2025! If you are interested in working with me, send me an email, attaching your CV, and explaining why would you like to work under my supervision.
 
