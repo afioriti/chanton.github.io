@@ -19,7 +19,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 [**Dynamic Pricing under Downward Sloping Demands**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637247), with [Toño Carrasco](http://www.tonocarrasco.com/) and Joel Rabenhorst
 
-[**Recovering Preferences in College Assignment Problems under Strategic and Constrained Reports**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3784310)
+[**Recovering Preferences in College Assignment Problems under Strategic and Constrained Reports**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3784310)  
 This version supersedes the manuscript titled "Centralized Assignment of Students to Majors: Evidence from the University of Costa Rica".
 
 [**To Distribute or Not: Monopolistic Selling Strategies in Large Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918396), with [Diego Carrasco](https://sites.google.com/view/dcarrasco/home?authuser=0), Joel Rabenhorst, and Matias Villagra
