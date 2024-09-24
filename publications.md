@@ -7,7 +7,8 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **2022**
 
-- **Markov chains, eigenvalues and the stability of economic growth processes** <img style="float: right;" width="28" height="20" src="/static/img/IO.jpg">
+- **Markov chains, eigenvalues and the stability of economic growth processes** <br>
+  <img style="float: right;" width="28" height="20" src="/static/img/IO.jpg">
   <br>
   Fernando Delbianco, _**Andrés Fioriti**_ & Fernando Tohmé  
   *Empirical Economics*  
