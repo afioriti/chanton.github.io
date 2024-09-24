@@ -1,8 +1,7 @@
 ---
 layout: page
 ---
-
-
+<br>
 ## Awards
 [GPSA Teaching Excellence Award](https://gpsa.asu.edu/funding/teaching-excellence-award/), 2016. Arizona State University.  
 Featured in [ASU Now](https://news.asu.edu/20160505-sun-devil-life-researcher-finds-joy-teaching).
