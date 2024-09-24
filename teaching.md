@@ -2,13 +2,14 @@
 layout: page
 ---
 <br/>
+
 ### Awards
 [GPSA Teaching Excellence Award](https://gpsa.asu.edu/funding/teaching-excellence-award/), 2016. Arizona State University.  
 Featured in [ASU Now](https://news.asu.edu/20160505-sun-devil-life-researcher-finds-joy-teaching).
 
 <br>
 
-## The University of Queensland
+### The University of Queensland
 
 ***ECON7110 Consumer and Firm Behavior*** (graduate), 2018-2024.
 
@@ -22,13 +23,13 @@ Featured in [ASU Now](https://news.asu.edu/20160505-sun-devil-life-researcher-fi
 
 <br>
 
-## Arizona State University
+### Arizona State University
 
 ***ECN594 Math Boot Camp*** (graduate), 2015-2016.
 
 <br>
 
-## Universidad de Costa Rica
+### Universidad de Costa Rica
 
 ***Financial Economics*** (graduate), 2011-2012.
 
