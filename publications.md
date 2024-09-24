@@ -4,7 +4,7 @@ title: Research
 ---
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=t80Cpe0AAAAJ&hl=en).
 
-# Working papers
+## Working papers
 [**Optimal Scaling Auctions: A Consumer Theory Deconstruction**](http://ssrn.com/abstract=4905421), with [Ernesto Rivera-Mora](https://www.ernestoriveramora.com/)
 
 [**Experimental Auctions with Securities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181021), with [Zachary Breig](https://zacharybreig.com/) and Declan Hunt
