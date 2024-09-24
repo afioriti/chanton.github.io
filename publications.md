@@ -6,7 +6,7 @@ Tags: Experimental Economics - Search Theory - Security Design - Information Eco
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=t80Cpe0AAAAJ&hl=en).
 
-## Working papers
+### Working papers
 [**Optimal Scaling Auctions: A Consumer Theory Deconstruction**](http://ssrn.com/abstract=4905421), with [Ernesto Rivera-Mora](https://www.ernestoriveramora.com/) <img width="28" height="20" src="/static/img/IO.jpg">
 
 [**Experimental Auctions with Securities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181021), with [Zachary Breig](https://zacharybreig.com/) and Declan Hunt   
@@ -29,7 +29,7 @@ This version supersedes the manuscript titled "Centralized Assignment of Student
 
 <br>
 
-## Selected work in progress
+### Selected work in progress
 
 **Decoupling Corporate Voting and Cash Flow Rights**, with [Andrés Fioriti](https://afioriti.github.io/) and [Guillem Ordoñez-Calafí](https://guillemordonez.weebly.com/)
 
@@ -41,7 +41,7 @@ This version supersedes the manuscript titled "Centralized Assignment of Student
 
 <br>
 
-## Publications
+### Publications
 
 [**Contagion Management through Information Disclosure**](https://doi.org/10.1016/j.jet.2024.105837), with [Jonas Hedlund](https://sites.google.com/site/svjohedlund/home) and [Carlos Oyarzún](https://sites.google.com/view/carlosoyarzun)  
 *Journal of Economic Theory*, April 2024.
@@ -61,7 +61,7 @@ Featured in [Pearls and Irritations](https://johnmenadue.com/how-victorias-lockd
 
 <br>
 
-## Other publications
+### Other publications
 
 [**A Markov-Switching Approach to the Study of Citations in Academic Journals**](https://doi.org/10.1016/j.joi.2020.101081), with F. Delbianco, [A. Fioriti](https://afioriti.github.io/) , and F. Tohmé  
 *Journal of Informetrics*, November 2020.
@@ -71,7 +71,7 @@ Featured in [Pearls and Irritations](https://johnmenadue.com/how-victorias-lockd
 
 <br>
 
-## Discussions
+### Discussions
 **Strategic 'Mistakes' : Implications for Market Design Research** by Georgy Artemov, Yeon-Koo Che, and Yinghua He [(*slides*)](https://www.dropbox.com/scl/fi/896zhvbvins0hexk1ul4s/Discussion-ASSA-2019.pdf?rlkey=z2u0e8uwhktbwjtyhlts8ilu6&e=1&dl=0)   
 *Allied Social Science Associations (ASSA) 2019 meeting*
 
