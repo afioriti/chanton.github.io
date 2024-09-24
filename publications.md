@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
 ---
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=t80Cpe0AAAAJ&hl=en).
 
