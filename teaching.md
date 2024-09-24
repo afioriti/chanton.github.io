@@ -1,15 +1,7 @@
 ---
 layout: page
-hide:
- - navigation
- - toc
 ---
-<style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style>
+#
 
 ## Awards
 [GPSA Teaching Excellence Award](https://gpsa.asu.edu/funding/teaching-excellence-award/), 2016. Arizona State University.  
