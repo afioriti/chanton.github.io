@@ -2,45 +2,38 @@
 layout: page
 title: Teaching
 ---
+## Awards
+[GPSA Teaching Excellence Award](https://gpsa.asu.edu/funding/teaching-excellence-award/), 2016. Arizona State University.  
+Featured in [ASU Now](https://news.asu.edu/20160505-sun-devil-life-researcher-finds-joy-teaching).
 
-### Current
-- **Universidad Nacional del Sur**  
-_Advanced Microeconomics_ (Undergrad)  
-Assistant Profesor (since 2019)
-  
-- **Universidad de Buenos Aires**  
-_Topics Advanced Microeconomics_ (Masters)  
-Visiting Profesor (since 2021)
-  
-***
+<br>
 
-### Past
-- **Universidad Nacional del Sur**  
-_Statistics Demography and Econometrics_ (Undergrad)  
-Profesor (2018)
-    
-  _Segregation and Inequality: Axiomatic Characterization and Measurement_ (PhD)  
-  Profesor (2018)
+## The University of Queensland
 
-  _Development_ (Undergrad)  
-  Assistant Profesor (2016 - 2018)
-  
-  _Economics 101_ (Undergrad)  
-  Teaching Assistant (2010 - 2013)
-    
-- **University of Warwick**  
-_Introduction to Quantitative Economics_ (Undergrad)  
-Teaching Assistant (2015 - 2016)
-    
-  _Managerial Economics_ (Undergrad)  
-  Teaching Assistant (2014 - 2016)
-    
-  _Economics of Strategy_ (Undergrad)  
-  Teaching Assistant (2013 - 2016)
-    
-  _Economics for Business_ (Undergrad)  
-  Teaching Assistant (2013 - 2016)
-    
-  _Intro Mathematics and Statistics_ (Masters)  
-  Teaching Assistant (2015)
+***ECON7110 Consumer and Firm Behavior*** (graduate), 2018-2024.
 
+***ECON7030 Microeconomic Analysis*** (graduate), 2024
+
+***ECON8810 Advanced Economic Studies II*** (PhD course), 2023
+
+***ECON1010 Introductory Economics***, 2022.
+
+***ECON2010 Microeconomic Theory***, 2018-2020.
+
+<br>
+
+## Arizona State University
+
+***ECN594 Math Boot Camp*** (graduate), 2015-2016.
+
+<br>
+
+## Universidad de Costa Rica
+
+***Financial Economics*** (graduate), 2011-2012.
+
+***Econometrics*** (graduate), 2011-2012.
+
+***Game Theory*** (graduate), 2011.
+
+***Calculus I*** (Department of Mathematics), 2007-2008. 
