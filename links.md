@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Links
 ---
 
 [Australian Education Markets Network](https://sites.google.com/view/ausemnetwork/)
