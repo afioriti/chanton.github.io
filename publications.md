@@ -2,8 +2,7 @@
 layout: page
 ---
 
-Tags:
-Experimental Economics - Search Theory - Security Design - Information Economics - Mechanism Design - Structural Econometrics
+Tags: Experimental Economics - Search Theory - Security Design - Information Economics - Mechanism Design - Structural Econometrics
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=t80Cpe0AAAAJ&hl=en).
 
