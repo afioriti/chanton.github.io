@@ -55,3 +55,21 @@ Featured in [Pearls and Irritations](https://johnmenadue.com/how-victorias-lockd
 
 [**Bidding Securities in Projects with Negative Externalities**](https://doi.org/10.1016/j.euroecorev.2019.05.003), with [Andrés Fioriti](https://afioriti.github.io/)   
 *European Economic Review*, September 2019.
+
+<br>
+
+## Other publications
+
+[**A Markov-Switching Approach to the Study of Citations in Academic Journals**](https://doi.org/10.1016/j.joi.2020.101081), with F. Delbianco, [A. Fioriti](https://afioriti.github.io/) , and F. Tohmé  
+*Journal of Informetrics*, November 2020.
+
+**Fiscal Moral Hazard due to Monetary Integration**, with Alberto Trejos  
+*Monetaria*, January 2013.  Link.
+
+<br>
+
+## Discussions
+**Strategic 'Mistakes' : Implications for Market Design Research** [*slides*](https://www.dropbox.com/scl/fi/896zhvbvins0hexk1ul4s/Discussion-ASSA-2019.pdf?rlkey=z2u0e8uwhktbwjtyhlts8ilu6&e=1&dl=0) by Georgy Artemov, Yeon-Koo Che, and Yinghua He  
+*Allied Social Science Associations (ASSA) 2019 meeting*
+
+
