@@ -6,6 +6,8 @@ Tags: Experimental Economics - Search Theory - Security Design - Information Eco
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=t80Cpe0AAAAJ&hl=en).
 
+<br>
+
 ### Working papers
 [**Optimal Scaling Auctions: A Consumer Theory Deconstruction**](http://ssrn.com/abstract=4905421), with [Ernesto Rivera-Mora](https://www.ernestoriveramora.com/) <img width="28" height="20" src="/static/img/IO.jpg">
 
