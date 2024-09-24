@@ -26,15 +26,15 @@ This version supersedes the manuscript titled "Centralized Assignment of Student
 
 ## Selected work in progress
 
-**Decoupling Corporate Voting and Cash Flow Rights**, with Guillem Ordoñez-Calafí and Andrés Fioriti
+**Decoupling Corporate Voting and Cash Flow Rights**, with [Andrés Fioriti](https://afioriti.github.io/) and [Guillem Ordoñez-Calafí](https://guillemordonez.weebly.com/)
 
-**Experimental Multi-unit Search**, with Zachary Breig and Toño Carrasco \[status: experiment completed\]
+**Experimental Multi-unit Search**, with [Zachary Breig](https://zacharybreig.com/) and [Toño Carrasco](http://www.tonocarrasco.com/) \[*status: experiment completed*\]
 
-**Experimental Fixed-Equity Auctions: The Common Value Case**, with Zachary Breig and Diego Carrasco [status: pilot completed]
+**Experimental Fixed-Equity Auctions: The Common Value Case**, with [Zachary Breig](https://zacharybreig.com/) and [Diego Carrasco](https://sites.google.com/view/dcarrasco/home?authuser=0) [status: pilot completed]
 
-**An Structural Approach to Security-Bid Auctions under Risk-Averse Bidders: The Case of Oil Auctions in Texas**, with Dong-Hyuk Kim
+**An Structural Approach to Security-Bid Auctions under Risk-Averse Bidders: The Case of Oil Auctions in Texas**, with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000/home)
 
-# Publications
+## Publications
 
 **2022**
 
