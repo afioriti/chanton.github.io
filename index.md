@@ -1,22 +1,34 @@
 ---
 layout: page
-title: Andrés Fioriti
+title: Welcome to my website
 ---
 <p align="center">
-  <img width="240" height="240" src="/static/img/Foto-Fioriti-Pagina.jpg">
+  <img width="240" height="240" src="/static/img/FotoHernandezChanto.jpg">
 </p>
 
-My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
-**INMABB-CONICET** (National Research Council), both in Bahía Blanca, _Argentina_. 
+I am a Senior Lecturer (Assistant Professor with tenure) in the [School of Economics at the University of Queensland](https://economics.uq.edu.au/). I am also a member of [UQ's Centre for Unified Behavioural Economic Sciences (UQ CUBES)](https://economics.uq.edu.au/research/cubes). You can see my CV [here](https://chanton.github.io/aboutme/).
 
-I am a microeconomic theorist, with research interests in **Information**, **Mechanism Design**, **Game Theory**, and **Financial Economics**.
-
+I am a microeconomist with main research interests in market/mechanism design, security design, information economics, and search theory. I am also interested in experimental economics and structural econometrics.
 ***
 
 ### Updates
 
-- September 2022: Webpage came to a closer finish.
+- **New Paper!** Optimal Scaling Auctions: A Consumer Theory Deconstruction.
 
-- June 2022: Promoted as a National Researcher.
+- **Seminar (scheduled)** Texas A&M University, November, 8th.
 
+- **Seminar (scheduled)** University of Texas Dallas, October, 27th.
 
+- **Seminar (scheduled)** RMIT University, August 23rd.
+
+- **Seminar (scheduled)** Deakin University, August 21st.
+
+- **Conference** Agora Workshop on Market Design, University of New South Wales, June 14th.
+
+- **Research visit** Yale University, November 16th-22nd.
+
+- **Seminar** The University of Kansas, November 15th.
+
+- **Seminar** The University of Arizona, November 9th.
+
+- **Seminar** Arizona State University, November 2nd.
