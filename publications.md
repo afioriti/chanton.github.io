@@ -69,7 +69,7 @@ Featured in [Pearls and Irritations](https://johnmenadue.com/how-victorias-lockd
 <br>
 
 ## Discussions
-**Strategic 'Mistakes' : Implications for Market Design Research** by Georgy Artemov, Yeon-Koo Che, and Yinghua He [(*slides*)](https://www.dropbox.com/scl/fi/896zhvbvins0hexk1ul4s/Discussion-ASSA-2019.pdf?rlkey=z2u0e8uwhktbwjtyhlts8ilu6&e=1&dl=0)
+**Strategic 'Mistakes' : Implications for Market Design Research** by Georgy Artemov, Yeon-Koo Che, and Yinghua He [(*slides*)](https://www.dropbox.com/scl/fi/896zhvbvins0hexk1ul4s/Discussion-ASSA-2019.pdf?rlkey=z2u0e8uwhktbwjtyhlts8ilu6&e=1&dl=0)   
 *Allied Social Science Associations (ASSA) 2019 meeting*
 
 
