@@ -33,7 +33,7 @@ navbar-links:
   Supervision: "Supervision"
   #Working Papers: "workingpapers"
   Teaching: "teaching"
-  Links: "link"
+  Links: "links"
   #About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
