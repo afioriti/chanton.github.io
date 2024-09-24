@@ -3,7 +3,7 @@ layout: page
 title: Welcome to my website
 ---
 <p align="center">
-  <img width="240" height="240" src="/static/img/FotoHernandezChanto.jpg">
+  <img width="360" height="423" src="/static/img/FotoHernandezChanto.jpg">
 </p>
 
 I am a Senior Lecturer (Assistant Professor with tenure) in the [School of Economics at the University of Queensland](https://economics.uq.edu.au/). I am also a member of [UQ's Centre for Unified Behavioural Economic Sciences (UQ CUBES)](https://economics.uq.edu.au/research/cubes). You can see my CV [here](https://chanton.github.io/aboutme/).
