@@ -53,5 +53,5 @@ Featured in [Pearls and Irritations](https://johnmenadue.com/how-victorias-lockd
 [**College Assignment Problems under Constrained Choice, Private Preferences, and Risk Aversion**](https://doi.org/10.1515/bejte-2019-0002)   
 *The B.E. Journal of Theoretical Economics*, February 2020. 
 
-[**Bidding Securities in Projects with Negative Externalities**](https://doi.org/10.1016/j.euroecorev.2019.05.003), with [Andrés Fioriti](https://afioriti.github.io/)
+[**Bidding Securities in Projects with Negative Externalities**](https://doi.org/10.1016/j.euroecorev.2019.05.003), with [Andrés Fioriti](https://afioriti.github.io/)   
 *European Economic Review*, September 2019.
