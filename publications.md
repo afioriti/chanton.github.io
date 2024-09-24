@@ -4,7 +4,7 @@ layout: page
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=t80Cpe0AAAAJ&hl=en).
 
 ## Working papers
-[**Optimal Scaling Auctions: A Consumer Theory Deconstruction**](http://ssrn.com/abstract=4905421), with [Ernesto Rivera-Mora](https://www.ernestoriveramora.com/)<img width="28" height="20" src="/static/img/IO.jpg">
+[**Optimal Scaling Auctions: A Consumer Theory Deconstruction**](http://ssrn.com/abstract=4905421), with [Ernesto Rivera-Mora](https://www.ernestoriveramora.com/) <img width="28" height="20" src="/static/img/IO.jpg">
 
 [**Experimental Auctions with Securities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181021), with [Zachary Breig](https://zacharybreig.com/) and Declan Hunt   
 <img style="float: left;" width="28" height="20" src="/static/img/IO.jpg">
