@@ -24,6 +24,7 @@ This version supersedes the manuscript titled "Centralized Assignment of Student
 
 [**To Distribute or Not: Monopolistic Selling Strategies in Large Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918396), with [Diego Carrasco](https://sites.google.com/view/dcarrasco/home?authuser=0), Joel Rabenhorst, and Matias Villagra
 
+<br>
 ## Selected work in progress
 
 **Decoupling Corporate Voting and Cash Flow Rights**, with [Andrés Fioriti](https://afioriti.github.io/) and [Guillem Ordoñez-Calafí](https://guillemordonez.weebly.com/)
